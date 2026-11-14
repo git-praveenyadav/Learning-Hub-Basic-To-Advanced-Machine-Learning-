@@ -37,9 +37,9 @@ Welcome to the **Learning-Hub-Basic-To-Advanced-Machine-Learning** repository! T
 
 #### Part 1 : Introduction to python and string manipulation.
 #### Part 2 : 
-#### Part 3 :
-#### Part 4 :
-#### Part 5 :
+#### Part 3 : Advanced Data Structures – Dictionaries & Sets
+#### Part 4 : Control Flow and Decision Making
+#### Part 5 : Iteration and Loop Mastery
 #### Part 6 :
 ---
 
