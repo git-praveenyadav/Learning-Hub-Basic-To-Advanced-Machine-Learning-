@@ -1,4 +1,4 @@
-# Section 2: Core Python Data Structures – Lists & Tuples
+# Part 2: Core Python Data Structures – Lists & Tuples
 
 **A comprehensive guide covering syntax, core coding concepts, methods, and high-yield keypoints for Python lists and tuples.**
 
