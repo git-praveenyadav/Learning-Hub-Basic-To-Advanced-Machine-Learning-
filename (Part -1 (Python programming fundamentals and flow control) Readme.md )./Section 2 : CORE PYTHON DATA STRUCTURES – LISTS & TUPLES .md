@@ -1,17 +1,17 @@
-### Section 2: Core Python Data Structures – Lists & Tuples
+# Section 2: Core Python Data Structures – Lists & Tuples
 
 **A concise crash course covering Python lists, tuples, mutability, key methods, and keypoints.**
 
 ---
 
-#### 1. Syntax & Construction (Lists vs. Tuples)
+## 1. Syntax & Construction (Lists vs. Tuples)
 * **Lists (`[]`):** Ordered and **mutable** (flexible; items can be added, modified, or removed).
 * **Tuples (`()`):** Ordered and **immutable** (fixed, read-only records once created).
 * **Analogy:** List = Whiteboard / Train coaches | Tuple = Printed certificate / Locked safe.
 
 ---
 
-#### 2. Core Coding Concepts & Syntax Patterns
+## 2. Core Coding Concepts & Syntax Patterns
 * `fruits = ["apple", "banana"]`: Standard list declaration.
 * `fruits.append("cherry")`: Adds item to the **END**.
 * `fruits.insert(1, "orange")`: Inserts at index 1 and shifts remaining items right.
@@ -26,7 +26,7 @@
 
 ---
 
-#### 3. Operations & Built-In Functions Reference
+## 3. Operations & Built-In Functions Reference
 * `len(container)`: Returns total element count.
 * `sorted(container)`: Returns a **NEW** sorted list without modifying the original.
 * `type(val)`: Returns the data type (e.g., `<class 'list'>` or `<class 'tuple'>`).
@@ -35,7 +35,7 @@
 
 ---
 
-#### 4. Keypoints
+## 4. Keypoints
 
 *  **1. The `.sort()` Return Value Trap:** `.sort()` operates **in-place** and returns `None`. Doing `result = scores.sort()` sets `result` to `None`.
 *  **2. Tuple Immutability (`TypeError`):** Modifying elements directly (`tup[0] = 10`) throws `TypeError: 'tuple' object does not support item assignment`. 
