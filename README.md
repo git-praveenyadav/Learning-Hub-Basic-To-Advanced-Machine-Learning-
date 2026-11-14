@@ -7,7 +7,7 @@
 
   <!-- Animated Header Typing Effect -->
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFD700&center=true&vCenter=true&width=752&lines=Welcome+to+Learning-Hub-Basic-To-Advanced-Machine-Learning;Master+Machine+Learning!+from+Scratch+to+Advanced;Supervised+%E2%80%A2+Unsupervised+%E2%80%A2+Deep+Learning;Interactive+Notebooks+%26+Real-World+Projects" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFD700&center=true&vCenter=true&width=750&lines=Welcome+to+Learning-Hub;Basic-To-Advanced-Machine-Learning;Master+Machine+Learning!+from+Scratch+to+Advanced;Supervised+%E2%80%A2+Unsupervised+%E2%80%A2+Deep+Learning;Interactive+Notebooks+%26+Real-World+Projects" alt="Typing SVG" />
   </a>
 
   <br />
