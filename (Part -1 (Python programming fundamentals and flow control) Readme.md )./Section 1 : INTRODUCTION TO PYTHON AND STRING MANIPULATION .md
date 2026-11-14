@@ -40,8 +40,8 @@ Strings are indexed starting from `0` or `-1` backwards.
 ---
 
 #### 4. Keypoints
-1. **String Multiplication vs Length:** `'ha' * 3` evaluates to `'hahaha'`, whereas `len('ha')` evaluates to `2`.
-2. **Index Out of Bounds:** Accessing invalid indices like `name[-100]` throws an immediate `IndexError` instead of wrapping around.
-3. **Type Mismatches:** Trying to add an integer and string (`5 + '1'`) throws a `TypeError`. Explicit casting (`str()` or `int()`) is required.
-4. **Assignment vs Comparison:** Single equals (`=`) assigns values; double equals (`==`) checks boolean equality.
-5. **Floating-Point Limit:** Due to binary storage limits, `0.1 + 0.2` outputs `0.30000000000000004` rather than exact `0.3`.
+* **String Multiplication vs Length:** `'ha' * 3` evaluates to `'hahaha'`, whereas `len('ha')` evaluates to `2`.
+* **Index Out of Bounds:** Accessing invalid indices like `name[-100]` throws an immediate `IndexError` instead of wrapping around.
+* **Type Mismatches:** Trying to add an integer and string (`5 + '1'`) throws a `TypeError`. Explicit casting (`str()` or `int()`) is required.
+* **Assignment vs Comparison:** Single equals (`=`) assigns values; double equals (`==`) checks boolean equality.
+* **Floating-Point Limit:** Due to binary storage limits, `0.1 + 0.2` outputs `0.30000000000000004` rather than exact `0.3`.
