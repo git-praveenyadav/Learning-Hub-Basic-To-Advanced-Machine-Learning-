@@ -1,4 +1,4 @@
-# Section 1: Introduction to Python & String Manipulation
+# Part 1: Introduction to Python & String Manipulation
 
 **A comprehensive, beginner-friendly crash course covering Python fundamentals, dynamic typing, core data types, and powerful string manipulation toolkits tailored for data science and AI workflows.**
 
