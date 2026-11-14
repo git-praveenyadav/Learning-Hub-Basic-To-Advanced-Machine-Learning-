@@ -33,6 +33,14 @@
 
 Welcome to the **Learning-Hub-Basic-To-Advanced-Machine-Learning** repository! This project provides a structured learning path covering foundational to advanced Machine Learning concepts, algorithms, hands-on notebooks, and practical implementations.
 
+# Part 1 : Python Programming Fundamentals and Flow Control
+
+#### Section 1 : Introduction to python and string manipulation.
+#### Section 2 : 
+#### Section 3 :
+#### Section 4 :
+#### Section 5 :
+#### Section 6 :
 ---
 
 <div align="center">
