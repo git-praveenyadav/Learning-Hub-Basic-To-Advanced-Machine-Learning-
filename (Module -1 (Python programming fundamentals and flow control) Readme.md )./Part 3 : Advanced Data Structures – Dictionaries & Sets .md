@@ -1,4 +1,4 @@
-# Section 3: Advanced Data Structures – Dictionaries & Sets
+# Part 3: Advanced Data Structures – Dictionaries & Sets
 
 **A comprehensive guide covering syntax, core coding concepts, methods, and high-yield Keypoints for Python dictionaries, sets, and frozensets.**
 
