@@ -1,4 +1,4 @@
-# Section 4: Control Flow and Decision Making
+# Part 4: Control Flow and Decision Making
 
 **A comprehensive guide covering syntax, core coding concepts, operators, and high-yield keypoints for Python conditional branching and decision making.**
 
