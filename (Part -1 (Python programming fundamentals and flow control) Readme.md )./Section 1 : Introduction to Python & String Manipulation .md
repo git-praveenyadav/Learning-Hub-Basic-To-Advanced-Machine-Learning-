@@ -1,3 +1,4 @@
+
 ### Section 1: Introduction to Python & String Manipulation
 
 A concise crash course covering Python fundamentals, dynamic typing, core data types, and string manipulation for data science.
