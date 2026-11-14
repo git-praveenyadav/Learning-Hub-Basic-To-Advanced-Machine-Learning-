@@ -1,11 +1,11 @@
 
-### Section 1: Introduction to Python & String Manipulation
+# Section 1: Introduction to Python & String Manipulation
 
 A concise crash course covering Python fundamentals, dynamic typing, core data types, and string manipulation for data science.
 
 ---
 
-#### 1. Google Colab & Quick Shortcuts
+## 1. Google Colab & Quick Shortcuts
 * **Run cell & stay:** `Ctrl + Enter`
 * **Run cell & move below:** `Shift + Enter`
 * **Add cell below / above:** `B` / `A` *(when not in edit mode)*
@@ -15,7 +15,7 @@ A concise crash course covering Python fundamentals, dynamic typing, core data t
 
 ---
 
-#### 2. Variables & Core Data Types
+## 2. Variables & Core Data Types
 Python is dynamically typed—data types are inferred automatically from the assigned value.
 * `course_name = "Data Science"` (String)
 * `total_marks = 100` (Integer)
@@ -29,7 +29,7 @@ Python is dynamically typed—data types are inferred automatically from the ass
 
 ---
 
-#### 3. String Slicing & Core Methods
+## 3. String Slicing & Core Methods
 Strings are indexed starting from `0` or `-1` backwards.
 * **Slicing syntax:** `string[start:stop:step]` (Note: the `stop` index is **exclusive**).
 * `text.strip()`: Removes leading and trailing whitespace (essential for cleaning CSV/API data).
@@ -39,7 +39,7 @@ Strings are indexed starting from `0` or `-1` backwards.
 
 ---
 
-#### 4. Keypoints
+## 4. Keypoints
 * **String Multiplication vs Length:** `'ha' * 3` evaluates to `'hahaha'`, whereas `len('ha')` evaluates to `2`.
 * **Index Out of Bounds:** Accessing invalid indices like `name[-100]` throws an immediate `IndexError` instead of wrapping around.
 * **Type Mismatches:** Trying to add an integer and string (`5 + '1'`) throws a `TypeError`. Explicit casting (`str()` or `int()`) is required.
