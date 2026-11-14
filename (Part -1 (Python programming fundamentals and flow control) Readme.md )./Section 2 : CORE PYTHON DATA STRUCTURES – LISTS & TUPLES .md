@@ -37,8 +37,8 @@
 
 ## 4. Keypoints
 
-*  **1. The `.sort()` Return Value Trap:** `.sort()` operates **in-place** and returns `None`. Doing `result = scores.sort()` sets `result` to `None`.
-*  **2. Tuple Immutability (`TypeError`):** Modifying elements directly (`tup[0] = 10`) throws `TypeError: 'tuple' object does not support item assignment`. 
-*  **3. Unpacking Mismatch (`ValueError`):** Left-side variables must match tuple length exactly, otherwise it raises `ValueError: too many values to unpack`.
-*  **4. Appending vs. Extending:** `.append([1,2])` nests the list inside as 1 item; `.extend([1,2])` unpacks and appends elements individually.
-*  **5. Index Out of Range (`IndexError`):** Accessing an invalid single index (e.g., `scores[99]`) throws `IndexError`, whereas out-of-bounds slicing handles it gracefully.
+*  **The `.sort()` Return Value Trap:** `.sort()` operates **in-place** and returns `None`. Doing `result = scores.sort()` sets `result` to `None`.
+*  **Tuple Immutability (`TypeError`):** Modifying elements directly (`tup[0] = 10`) throws `TypeError: 'tuple' object does not support item assignment`. 
+*  **Unpacking Mismatch (`ValueError`):** Left-side variables must match tuple length exactly, otherwise it raises `ValueError: too many values to unpack`.
+*  **Appending vs. Extending:** `.append([1,2])` nests the list inside as 1 item; `.extend([1,2])` unpacks and appends elements individually.
+*  **Index Out of Range (`IndexError`):** Accessing an invalid single index (e.g., `scores[99]`) throws `IndexError`, whereas out-of-bounds slicing handles it gracefully.
