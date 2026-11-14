@@ -1,4 +1,4 @@
-# Section 5: Iteration and Loop Mastery
+# Part 5: Iteration and Loop Mastery
 
 **A comprehensive guide covering syntax, iteration concepts, loop control statements, and high-yield keypoints for Python for-loops and while-loops.**
 
