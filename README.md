@@ -37,11 +37,23 @@ Welcome to the **Learning-Hub-Basic-To-Advanced-Machine-Learning** repository! T
 # Module 1 : Python Programming Fundamentals and Flow Control
 
 #### Part 1 : Introduction to python and string manipulation.
-#### Part 2 : 
+#### Part 2 : Core Python Data Structures – Lists & Tuples
 #### Part 3 : Advanced Data Structures – Dictionaries & Sets
 #### Part 4 : Control Flow and Decision Making
 #### Part 5 : Iteration and Loop Mastery
-#### Part 6 :
+#### Part 6 : Functional Programming for Reusability
+
+# Module 2 : asd
+
+#### Part 1 : sds
+#### Part 2 : ddw
+#### Part 3 : wff
+#### Part 4 : wfd
+#### Part 5 : fe
+#### Part 6 : efe
+#### Part 7 : efe
+#### Part 8 : frf
+
 ---
 
 <div align="center">
