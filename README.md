@@ -46,9 +46,9 @@ Welcome to the **Learning-Hub-Basic-To-Advanced-Machine-Learning** repository! T
 
 ---
 
-# **Module 2 : asd**
+# **Module 2 : Data Handling Toolkit (Numpy And Pandas)**
 
-#### **Part 1 :** sds
+#### **Part 1 :** Numerical computing with Numpy
 #### **Part 2 :** ddw
 #### **Part 3 :** wff
 #### **Part 4 :** wfd
