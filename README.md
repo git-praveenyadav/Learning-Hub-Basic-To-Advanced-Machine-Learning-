@@ -1,4 +1,3 @@
-
 <div align="center">
 
   <!-- Animated Header Wave Banner (Gold Gradient) -->
@@ -42,6 +41,8 @@ Welcome to the **Learning-Hub-Basic-To-Advanced-Machine-Learning** repository! T
 #### **Part 4 :** Control Flow and Decision Making
 #### **Part 5 :** Iteration and Loop Mastery
 #### **Part 6 :** Functional Programming for Reusability
+
+---
 
 # **Module 2 : asd**
 
