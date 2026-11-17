@@ -54,12 +54,10 @@ Welcome to the **Learning-Hub-Basic-To-Advanced-Machine-Learning** repository! T
 #### **Part 4 :** 
 #### **Part 5 :** 
 #### **Part 6 :** 
-#### **Part 7 :** 
-#### **Part 8 :** 
 
 ---
 
-# **Module 4 : Essential Supervised Learning (Predictive Modeling and Categorization)**
+# **Module 3 : Data Preparation, Statistical Analysis, and Machine Learning Fundamentals**
 
 #### **Part 1 :** 
 #### **Part 2 :** 
@@ -69,19 +67,35 @@ Welcome to the **Learning-Hub-Basic-To-Advanced-Machine-Learning** repository! T
 #### **Part 6 :** 
 #### **Part 7 :** 
 #### **Part 8 :**
+
+---
+# **Module 4 : Essential Supervised Learning (Predictive Modeling and Categorization)**
+
+#### **Part 1  :** 
+#### **Part 2  :** 
+#### **Part 3  :** 
+#### **Part 4  :** 
+#### **Part 5  :** 
+#### **Part 6  :** 
+#### **Part 7  :** 
+#### **Part 8  :**
+#### **Part 9  :** 
+#### **Part 10 :**
 
 ---
 
 # **Module 5 : Complex Machine Learning Theories and Unsupervised Learning Techniques**
 
-#### **Part 1 :** 
-#### **Part 2 :** 
-#### **Part 3 :** 
-#### **Part 4 :** 
-#### **Part 5 :** 
-#### **Part 6 :** 
-#### **Part 7 :** 
-#### **Part 8 :**
+#### **Part 1  :** 
+#### **Part 2  :** 
+#### **Part 3  :** 
+#### **Part 4  :** 
+#### **Part 5  :** 
+#### **Part 6  :** 
+#### **Part 7  :** 
+#### **Part 8  :**
+#### **Part 9  :** 
+#### **Part 10 :**
 
 ---
 
