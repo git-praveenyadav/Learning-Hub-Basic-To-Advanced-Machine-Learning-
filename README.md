@@ -111,6 +111,10 @@ Welcome to the **Learning-Hub-Basic-To-Advanced-Machine-Learning** repository! T
 #### **Part 8 :**
 
 ---
+
+# **Module 7 : Capstone Project**
+
+---
 <div align="center">
 
   <!-- Animated Wave Footer Graphic (Gold Gradient) -->
