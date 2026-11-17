@@ -49,16 +49,54 @@ Welcome to the **Learning-Hub-Basic-To-Advanced-Machine-Learning** repository! T
 # **Module 2 : Data Handling Toolkit (Numpy And Pandas)**
 
 #### **Part 1 :** Numerical computing with Numpy
-#### **Part 2 :** ddw
-#### **Part 3 :** wff
-#### **Part 4 :** wfd
-#### **Part 5 :** fe
-#### **Part 6 :** efe
-#### **Part 7 :** efe
+#### **Part 2 :** 
+#### **Part 3 :** 
+#### **Part 4 :** 
+#### **Part 5 :** 
+#### **Part 6 :** 
+#### **Part 7 :** 
 #### **Part 8 :** 
 
 ---
 
+# **Module 4 : Essential Supervised Learning (Predictive Modeling and Categorization)**
+
+#### **Part 1 :** 
+#### **Part 2 :** 
+#### **Part 3 :** 
+#### **Part 4 :** 
+#### **Part 5 :** 
+#### **Part 6 :** 
+#### **Part 7 :** 
+#### **Part 8 :**
+
+---
+
+# **Module 5 : Complex Machine Learning Theories and Unsupervised Learning Techniques**
+
+#### **Part 1 :** 
+#### **Part 2 :** 
+#### **Part 3 :** 
+#### **Part 4 :** 
+#### **Part 5 :** 
+#### **Part 6 :** 
+#### **Part 7 :** 
+#### **Part 8 :**
+
+---
+
+# **Module 6 : Cutting-Edge Generative AI Frameworks, Methods, and Applications**
+
+#### **Part 1 :** 
+#### **Part 2 :** 
+#### **Part 3 :** 
+#### **Part 4 :** 
+#### **Part 5 :** 
+#### **Part 6 :** 
+#### **Part 7 :** 
+#### **Part 8 :**
+
+---
 <div align="center">
 
   <!-- Animated Wave Footer Graphic (Gold Gradient) -->
