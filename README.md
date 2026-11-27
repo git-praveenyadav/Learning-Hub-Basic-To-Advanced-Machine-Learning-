@@ -39,35 +39,35 @@ Welcome to the **Learning-Hub-Basic-To-Advanced-Machine-Learning** repository! T
 # **Module 1 : Python Programming Fundamentals and Flow Control**
 
 #### **Part 1 :** Introduction to python and string manipulation.
-#### **Part 2 :** Core Python Data Structures – Lists & Tuples
-#### **Part 3 :** Advanced Data Structures – Dictionaries & Sets
-#### **Part 4 :** Control Flow and Decision Making
-#### **Part 5 :** Iteration and Loop Mastery
-#### **Part 6 :** Functional Programming for Reusability
+#### **Part 2 :** Core Python Data Structures – Lists & Tuples.
+#### **Part 3 :** Advanced Data Structures – Dictionaries & Sets.
+#### **Part 4 :** Control Flow and Decision Making.
+#### **Part 5 :** Iteration and Loop Mastery.
+#### **Part 6 :** Functional Programming for Reusability.
 
 ---
 
 # **Module 2 : Data Handling Toolkit (Numpy And Pandas)**
 
-#### **Part 1 :** Numerical computing with Numpy
-#### **Part 2 :** 
-#### **Part 3 :** 
-#### **Part 4 :** 
-#### **Part 5 :** 
-#### **Part 6 :** 
+#### **Part 1 :** Numerical computing with Numpy.
+#### **Part 2 :** Pandas dataframe essentials.
+#### **Part 3 :** Data cleaning and missing value treatment.
+#### **Part 4 :** Advanced data selection and filtering.
+#### **Part 5 :** Data aggregation and grouping in pandas.
+#### **Part 6 :** Combining dataframes and structural joints.
 
 ---
 
 # **Module 3 : Data Preparation, Statistical Analysis, and Machine Learning Fundamentals**
 
-#### **Part 1 :** 
-#### **Part 2 :** 
-#### **Part 3 :** 
-#### **Part 4 :** 
-#### **Part 5 :** 
-#### **Part 6 :** 
-#### **Part 7 :** 
-#### **Part 8 :**
+#### **Part 1 :** Descriptive statistical analysis.
+#### **Part 2 :** Foundational data visualization.
+#### **Part 3 :** Advanced statistical visualization.
+#### **Part 4 :** Feature Engineering stretegies.
+#### **Part 5 :** Feature scaling and normalization.
+#### **Part 6 :** The end-to-end ML pipeline.
+#### **Part 7 :** Data splitting and validation protocol.
+#### **Part 8 :** Integrated data preparation workshop.
 
 ---
 # **Module 4 : Essential Supervised Learning (Predictive Modeling and Categorization)**
