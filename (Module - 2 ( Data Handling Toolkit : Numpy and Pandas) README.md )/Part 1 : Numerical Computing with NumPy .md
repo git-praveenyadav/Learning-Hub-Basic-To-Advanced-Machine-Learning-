@@ -1,6 +1,6 @@
-# Section 7: Numerical Computing with NumPy
+# Part 1 : Numerical Computing with NumPy
 
-**A comprehensive guide covering NumPy array creation, vectorization, attributes, slicing, boolean masking, reshaping, aggregations, and high-yield exam traps.**
+**A comprehensive guide covering NumPy array creation, vectorization, attributes, slicing, boolean masking, reshaping, aggregations, and high-yield keypoints.**
 
 ---
 
