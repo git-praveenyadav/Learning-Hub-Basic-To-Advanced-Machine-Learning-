@@ -1,6 +1,6 @@
 # Part 2 : The Pandas DataFrame Essentials
 
-**A comprehensive guide covering DataFrame construction, CSV I/O, indexing with `.loc`, data inspection, boolean filtering, missing values, and high-yield exam traps.**
+**A comprehensive guide covering DataFrame construction, CSV I/O, indexing with `.loc`, data inspection, boolean filtering, missing values, and high-yield keypoints.**
 
 ---
 
